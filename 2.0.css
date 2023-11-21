@@ -82,3 +82,32 @@ body{
     grid-row: 2 span;
     background:#FFC300 ;
 }
+
+
+@media screen and (max-height:541px){
+    .btn{
+
+        
+        font-size: 1rem;
+    }
+
+    .calculadora{
+
+        background:#900C3F ;
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        padding: 1em;
+        width: 350px;
+        max-width: 100%;
+       
+        box-shadow: 20px 20px #23010a;
+        border-radius: 1rem;
+        gap: .5em;
+    }
+
+    .Box-titulo{
+
+        display: none;
+    }
+   
+}
