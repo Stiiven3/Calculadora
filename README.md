@@ -1,7 +1,9 @@
 # Calculadora
+ App 
+ 
 Calculadora
 
-Entra aqui para ver
+Entra aqui para ver.
 
 https://stiiven3.github.io/Calculadora/calculadora2.0.html
 
